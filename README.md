@@ -60,14 +60,10 @@
 
 ---
 
-### 🏆 GitHub Trophies & Contributions
+### 📈 Contribution Graph
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy-fork-alpha.vercel.app/?username=MOHEMMED-ALI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
-
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MOHEMMED-ALI&limit=5&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHEMMED-ALI&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
