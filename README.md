@@ -52,15 +52,10 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Achievements
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MOHEMMED-ALI&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHEMMED-ALI&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MOHEMMED-ALI&theme=tokyonight&hide_border=true)
-
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
