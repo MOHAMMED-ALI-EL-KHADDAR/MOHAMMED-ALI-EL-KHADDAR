@@ -60,11 +60,40 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🛡️ Featured Cybersecurity & Cryptography Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHEMMED-ALI-EL-KHADDAR&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Network Port Scanner** | Fast multi-threaded TCP port scanner with service banner grabbing | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **File Integrity Checker** | SHA-256 cryptographic hash verifier to detect unauthorized file tampering | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Secure Password Manager** | Encrypted CLI credential vault using symmetric key cryptography | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Phishing & URL Safety Checker** | Heuristic analyzer to inspect suspicious domains and URL structures | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Basic Firewall Simulator** | Rule-based packet filtering engine simulating inbound/outbound traffic rules | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **2FA Authentication Demo** | Time-based One-Time Password (TOTP) login verification system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+### 🎯 Current Focus & Goals
+
+<details open>
+<summary><b>Click to expand what I'm currently working on</b></summary>
+<br/>
+
+- 🔐 **Offensive Security:** Practicing penetration testing labs on **Hack The Box** (SQLi, reverse shells, privilege escalation on Kali Linux)
+- 🐍 **Security Tooling:** Developing and documenting open-source CLI security utilities in Python
+- 🎓 **Academic Focus:** Second-year preparatory engineering (AP2) at **ENSAT** — Linear Algebra, Analog Electronics, and Industrial Mechanics
+- 🚀 **Community Leadership:** Organizing technical training tracks and workshops for the **ENSAT Computer Science Club**
+
+</details>
+
+---
+
+### 🏆 Highlights & Certifications
+
+- 🏅 **Executive Board Member** — Computer Science Club (ENSAT)
+- 📜 **Social Media Marketing Certificate** — HP LIFE / HP Foundation
+- 💻 **13+ Open-Source Security Tools** — Built & published on GitHub
+- ⚔️ **Hack The Box** — Active Starting Point & Lab Practitioner
 
 ---
 
