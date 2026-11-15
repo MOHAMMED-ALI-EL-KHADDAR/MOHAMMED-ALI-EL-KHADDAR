@@ -55,12 +55,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOHEMMED-ALI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHEMMED-ALI&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MOHEMMED-ALI&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MOHEMMED-ALI&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHEMMED-ALI&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MOHEMMED-ALI&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -68,13 +68,11 @@
 ### 🏆 GitHub Trophies & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MOHEMMED-ALI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-</div>
 
-<br/>
+![Trophies](https://github-profile-trophy-fork-alpha.vercel.app/?username=MOHEMMED-ALI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MOHEMMED-ALI&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MOHEMMED-ALI&limit=5&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
