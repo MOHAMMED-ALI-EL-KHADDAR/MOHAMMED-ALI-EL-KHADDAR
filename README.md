@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=220&section=header&text=Mohammed%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20•%20Cybersecurity%20Enthusiast%20•%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=220&section=header&text=Mohammed-Ali%20El%20Khaddar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20•%20Cybersecurity%20Enthusiast%20•%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Python+Security+%26+Crypto+Tools;Exploring+Offensive+Security+%26+Pentesting;AP2+Engineering+Student+%40+ENSAT;Practicing+on+Hack+The+Box)](https://git.io/typing-svg)
 
